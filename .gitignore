@@ -1,0 +1,6 @@
+/conexao.php
+/.env
+/.env.*
+/testaCrypto.php
+*.zip
+*.log
